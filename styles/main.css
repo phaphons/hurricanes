@@ -1366,7 +1366,7 @@ body {
 	font-size: 14px;
 	line-height: 1.428571429;
 	color: #353535;
-	background-color: #000
+	background-color: #000;
 }
 
 button,
@@ -8022,7 +8022,7 @@ blockquote {
 }
 
 .btn-secondary:hover {
-	background: #901727;
+	background: #d62d2d;
 	color: #fff
 }
 
